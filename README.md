@@ -59,6 +59,7 @@ Donations
 The faucet is purely non-profit for me, it's about giving back to the community. So I won't accept personal donations for this project. However please feel free to send to [1GNCie7qmDKvPHhHmVmqpYHkY689Xx3wkU](bitcoin:1GNCie7qmDKvPHhHmVmqpYHkY689Xx3wkU) and they will be added to The Legendary Faucet!
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1fbf34ba35674ae9a7752bd1b705a4e4)](https://www.codacy.com/app/PartTimeLegend/freecoins?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/freecoins&utm_campaign=badger)
 [![Code Climate](https://codeclimate.com/github/PartTimeLegend/freecoins.png)](https://codeclimate.com/github/PartTimeLegend/freecoins) [![Build Status](https://travis-ci.org/PartTimeLegend/freecoins.png?branch=master)](https://travis-ci.org/PartTimeLegend/freecoins) [![Dependency Status](https://gemnasium.com/PartTimeLegend/freecoins.png)](https://gemnasium.com/PartTimeLegend/freecoins) [![Coverage Status](https://coveralls.io/repos/PartTimeLegend/freecoins/badge.png?branch=master)](https://coveralls.io/r/PartTimeLegend/freecoins) [![tip for next commit](http://tip4commit.com/projects/887.svg)](http://tip4commit.com/github/PartTimeLegend/freecoins)
 ![Codeship](https://www.codeship.io/projects/89162ee0-61e4-0131-e84a-72a9c118fe1f/status) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/PartTimeLegend/freecoins/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PartTimeLegend/freecoins/?branch=master)
 
